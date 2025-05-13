@@ -1,5 +1,7 @@
 # Ollama Modelfile Creator
 
+https://hady2010.github.io/ollama-modelfile-creator/
+
 A web-based tool for creating Modelfiles for Ollama AI models. This tool provides an intuitive interface for configuring model parameters, system messages, and chat templates.
 
 ## Features
